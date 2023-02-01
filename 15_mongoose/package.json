@@ -11,7 +11,7 @@
   "author": "Matheus <matheus@horadecodar.com.br> (http://www.horadecodar.com.br/)",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.12.10",
+    "mongoose": "^5.13.15",
     "nodemon": "^2.0.7"
   }
 }
